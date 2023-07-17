@@ -16,6 +16,15 @@
     background-repeat: no-repeat;
     
     }
+
+    .fondosociales{
+        background-image: url("imagen\ 24.jpg");
+    
+        background-repeat: no-repeat;
+        
+
+    }
+
     
     
     
@@ -114,6 +123,61 @@
         }
         
         
-         
+        
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imageningles{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("mapa\ mental\ condicion\ humana.png");
+            
+            }
+            
+            
+            
+            .textoingles{
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+            
+            
+            
+            }
+        
+         .encabezado{
+            height: 150px;
+            width: 100%;
+            
+         }
     
     
