@@ -11,14 +11,14 @@
     
     body{
     
-    background-image: url("fondo\ de\ pantalla\ 2.jpg");
+    background-image: url("fondo\ morado.jpg");
     
     background-repeat: no-repeat;
     
     }
 
     .fondosociales{
-        background-image: url("imagen\ 24.jpg");
+        background-image: url("fondo\ morado.jpg");
     
         background-repeat: no-repeat;
         
@@ -46,7 +46,7 @@
     
     left: 180px;
     
-    background-image: url("imagen\ 24.jpg");
+    background-image: url("fondo\ morado.jpgs");
     
     }
     
@@ -62,7 +62,7 @@
     
     .texto{
     
-    font-size: 40px;
+    font-size: 60px;
     
     text-align: justify;
     
@@ -156,7 +156,7 @@
             
             margin-right:5px;
             
-            background-image: url("mapa\ mental\ condicion\ humana.png");
+            background-image: url("fondo\ morado.html");
             
             }
             
