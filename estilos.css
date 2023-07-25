@@ -263,3 +263,27 @@
                     background-image: url("multiplicacion.png");
                     
                     }
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 410px;
+                        
+                         
+                        
+                        }
+                        .textobiologia{
+            
+                            text-align: justify;
+                            
+                            color: rgb(0, 0, 0);
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
