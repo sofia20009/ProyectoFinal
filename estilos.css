@@ -88,25 +88,46 @@
         
          
         
+        
         .imagensoc{
         
          
         
-        background-repeat: no-repeat;
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 2000px;
+            
+            width: 2000px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("mapa\ mental\ condicion\ humana.png");
+            
+            }
+
+            .imagensoc1{
         
-        float:left;
+         
         
-        height: 2000px;
-        
-        width: 2000px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("mapa\ mental\ condicion\ humana.png");
-        
-        }
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 2000px;
+                
+                width: 2000px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("independencia.jpeg");
+                
+                }
         
         
         
